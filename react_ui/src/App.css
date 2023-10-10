@@ -1,0 +1,18 @@
+.center{
+    display: flex;
+    justify-content: center;
+}
+.right{
+    display: flex;
+    justify-content: right;
+}
+.link{
+    text-decoration: none;
+    color: rgb(64, 63, 63);
+}
+.gray{
+    color : rgb(156, 156, 156);
+}
+.mt-5{
+    margin-top: 50px;
+}
